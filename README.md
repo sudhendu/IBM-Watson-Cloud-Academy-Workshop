@@ -1,1 +1,1 @@
-# IBM-Watson-Cloud-Academy-Workshop
+# IBM Watson Cloud Academy Workshop
